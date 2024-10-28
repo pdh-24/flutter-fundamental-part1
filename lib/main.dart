@@ -71,4 +71,3 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
-// Test to see if switching GitHub account is successful
